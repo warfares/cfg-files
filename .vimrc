@@ -22,7 +22,7 @@ endif
 
 set showmode " display the current mode
 " Highlight cursor
-highlight CursorLine ctermbg=8 cterm=NONE
+highlight CursorLine ctermbg=0 cterm=NONE
 
 
 set nowrap
